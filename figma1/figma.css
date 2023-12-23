@@ -1,0 +1,450 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    width: 1440px;
+    height: 133px;
+    background: #FFFFFF;
+    padding-left: 35%;
+    
+    
+    
+
+    
+}
+.logo{
+    width: 200px;
+    height: 86px;
+     margin-top: 22px;
+      margin-left: 200px;
+
+}
+.menu{
+    width: Hug (811.34px);
+     height: Hug (33px);
+    margin-top: -45px;
+    margin-left: 700px;
+    gap: 45px;
+    display:flex;
+    
+
+}
+.list{
+    list-style: none;
+}
+.button{
+    width: 120px;
+    height: 27px;
+    margin-top: -20px;
+    margin-left: 1400px;
+    border-radius: 4px;
+}
+    
+
+.middle-img{
+    width: 1600px;
+    height: 616px;
+    top: 123px;
+    margin-left:36.8%;
+
+}
+.textt{
+    width: 709px;
+    height: 59px;
+    margin-top:-25%;
+    margin-left: 390px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+     font-size: 40px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0.045em;
+    text-align: left;
+    color:#FFFFFF;
+
+
+}
+.text2{
+    width: 338px;
+    height: 58px;
+    margin-top:4%;
+    margin-left: 40%;
+    border-radius: 7px;
+    color:black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    color:#FFFFFF;
+    letter-spacing: 0.045em;
+    
+
+}
+.m-img{
+    width: 1440px;
+    height: 900px;
+    padding-left:37%;
+     
+}
+.girl-img{
+    width: 534px;
+    height: 630px;
+    margin-top: 100px;
+    margin-left: 151px;
+
+}
+.girl-text{
+    width: 579px;
+    height: 92px;
+    margin-top:-44%;
+    margin-left:50%;
+    
+   
+    font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+letter-spacing: 0.055em;
+
+}
+.samantha{
+   
+    margin-top:2%;
+    margin-left:50%;
+    font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+letter-spacing: 0.055em;
+
+}
+.paragraph{
+    margin-top:2%;
+    margin-left:50%;
+    margin-right:5%;
+    
+}
+.ull{
+    margin-top:2%;
+    margin-left:52%;
+    letter-spacing: 0.055em;
+}
+.find{
+    width: 30%;
+    height:65px;
+    margin-top: 4%;
+    margin-left: 720px;
+    text-align: center;
+    border-radius: 10px;
+    gap: 10px;
+    background-color: #91D497;
+    color:#FFFFFF;
+      padding-top: 2%;
+      letter-spacing: 0.055em;
+
+}
+
+
+
+
+.input-div{
+    width: 1460px;
+    height: 900px;
+    margin-top: -55px;
+    background: #DFE8E6;
+    margin-left:36.5%;
+
+
+}
+.want{
+    letter-spacing: 0.055em;
+    padding-top: 6%;
+    padding-left: 10%;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+}
+.schedule{
+   
+    padding-top: 2%;
+    padding-left: 10%;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+
+}
+.input-text{
+    padding-left:10%;
+    padding-top:2%;
+    
+    
+}
+.name{
+    width: 550px;
+    height: 60px;
+    border-radius: 9px;
+    background-color:#a2d1c7;
+    padding-left:10px;
+    border:none;
+
+}
+.email{
+    width: 550px;
+    height: 60px;
+    margin-top: 8px;
+    border-radius: 9px;
+    background-color:#a2d1c7;
+    padding-left:10px;
+    border:none;
+
+}
+.phone{
+    width: 550px;
+    height: 60px;
+    margin-top: 8px;
+    border-radius: 9px;
+    background-color:#a2d1c7;
+    padding-left:10px;
+    border:none;
+
+}
+.facebook{
+    width: 550px;
+    height: 60px;
+    margin-top: 8px;
+    border-radius: 9px;
+    background-color:#a2d1c7;
+    padding-left:10px;
+    border:none;
+
+}
+.date{
+    width: 550px;
+    height: 60px;
+    margin-top: 8px;
+    border-radius: 9px;
+    background-color:#a2d1c7;
+    padding-left:10px;
+    border:none;
+}
+.photo{
+    width: 510px;
+    height: 650px;
+    margin-top:-30%;
+    margin-left:60%;
+
+}
+.choose{
+    width: 342px;
+    height: 73px;
+    margin-top:-10%;
+    margin-left:17%;
+    border-radius: 9px;
+    background-color: #68BCA7;
+    
+    color:#FFFFFF;
+
+}
+.choose-text{
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+.servicess{
+    width: 1440px;
+    height: 900px; 
+    margin-left: 35%;
+}
+.s-text{
+margin-top: 5%;
+margin-left: 52%;
+font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'M PLUS 1p', sans-serif;
+letter-spacing: 0.055em;
+
+}
+.s-text2{
+    letter-spacing: 0.055em;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.pic123{
+    display:flex;
+    gap:5%;
+    padding-left: 20%;
+    padding-top: 8%;
+
+}
+
+  .text-3{
+    display: flex;
+    gap:18%;
+    padding-left:25%;
+    padding-top: 4%;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+    letter-spacing: 0.055em;
+}
+.more{
+    width: 342px;
+    height: 73px;
+    margin-top: 8%;
+    margin-left: 45%;
+    border-radius: 9px;
+    border-color:black;
+    border: 2px solid black;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+    letter-spacing: 0.055em;
+    
+    
+}
+  .findoutmore{
+    padding-top:3.5%;
+    text-align: center;
+  }  
+  .twoimg{
+    width: 1462px;
+    height: 734px;
+    top: 3484px;
+    background-color: #DFE8E6;
+    margin-left: 37%;
+    margin-top:1%;
+
+  }
+.boy{
+    width: 736px;
+    height: 734px;
+    top: 3484px;
+
+}
+.Philosophy{
+    padding-left: 60%;
+    margin-top:-40%;
+    font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'M PLUS 1p', sans-serif;
+letter-spacing: 0.055em;
+font-size:300%;
+}
+.boytext-2{
+    padding-left: 55%;
+    margin-top:6%;
+    font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'M PLUS 1p', sans-serif;
+letter-spacing: 0.055em; 
+margin-right: 4%;
+letter-spacing: 0.055em;
+}
+.uncle{
+    width: 1462px;
+    height: 734px;
+    top: 3484px;
+    margin-left: 37%;
+
+}
+.img-uncle{
+    width: 728px;
+    height: 734px;
+    top: 4218px;
+    margin-left: 736px;
+
+}
+.uncle-text{
+    margin-top:-40%;
+    font-family: 'Comfortaa', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'M PLUS 1p', sans-serif;
+letter-spacing: 0.055em; 
+margin-right: 4%;
+letter-spacing: 0.055em;
+margin-right:55%;
+margin-left:3%;
+letter-spacing: 0.0060em;
+
+}
+.findoutmore2{
+    padding-top:3.5%;
+    text-align: center;
+}
+.more2{
+    width: 342px;
+    height: 73px;
+    margin-top: 8%;
+    margin-left: 10%;
+    border-radius: 9px;
+    border-color:black;
+    border: 2px solid black;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+    letter-spacing: 0.055em;
+}
+.therapy{
+    width: 1475px;
+    height: 386px;
+    top: 4952px;
+    background: #DFDFDF;
+    margin-left: 36.8%;
+
+
+}
+.therapy-textt{
+ text-align: center;
+ padding-top: 13%;
+ letter-spacing: 0.3em;
+ font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 250%;
+    
+
+}
+.header2{
+        width: 1475px;
+        height: 201px;
+        background:#DFE8E6;
+        margin-left: 36.8%;
+        
+}
+.list2{
+    list-style: none;
+    margin-left:-5%;
+
+
+}
+.menu2{
+
+   margin-top: -45px;
+   margin-left: 600px;
+   gap: 10%;
+   display:flex;
+   
+}
+.logo2{
+    width: 200px;
+    height: 86px;
+  margin-top: 3%;
+      margin-left: 100px;  
+}
+
+.button2{
+    width: 120px;
+    height: 27px;
+    margin-top: -20px;
+    margin-left: 1325px;
+    border-radius: 4px;
+} 
